@@ -46,3 +46,18 @@ Mount them all:
 /tmp/mnt//solo_3.0.0.tar.gz_dir/3dr-solo-imx6solo-3dr-1080p.squashfs/firmware/ArduCopter-1.2.24.px4
 
 
+Collect them all:
+
+MD5 (ArduCopter-1.0.1.px4) = 67ed1eba76156ee50b5a02be0eb6c867
+MD5 (ArduCopter-1.0.9.px4) = 9f955ca2f947900a643d7e54f3a07bda
+MD5 (ArduCopter-1.1.30.px4) = 4948be4f3a557a20b3a2c47168162fd0
+MD5 (ArduCopter-1.1.38.px4) = 441b76d8c0bada65165b60193b6bd373
+MD5 (ArduCopter-1.2.0.px4) = 0eda0b0bf4f13c0cf3689a06dcf632a0
+MD5 (ArduCopter-1.2.19.px4) = b7743158907ccb18ed06535767f7e480
+MD5 (ArduCopter-1.2.21.px4) = 0be6025036fb93942e75ba69db5cd149
+MD5 (ArduCopter-1.2.23.px4) = 0ec544a20a033710ef41d03e8674b77c
+MD5 (ArduCopter-1.2.24.px4) = 866f39082f134e76e95beed2e95ea2ae
+MD5 (ArduCopter-1.3.1.px4) = 9cb58d4d1a580996329fc38afa6e5de8
+MD5 (ArduCopter-2.0.20.px4) = c377b4a8003cadbc8844f4cdfa1740f9
+
+
