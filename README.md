@@ -1,6 +1,7 @@
 # 3DRSoloFirmwareBinaries
 Archive of 3DRobotics Solo Firmware binaries
 
+```
 Get Feeds.rb
 https://github.com/MAVProxyUser/3DRSoloHacks/blob/master/Feeds.rb
 
@@ -59,5 +60,5 @@ MD5 (ArduCopter-1.2.23.px4) = 0ec544a20a033710ef41d03e8674b77c
 MD5 (ArduCopter-1.2.24.px4) = 866f39082f134e76e95beed2e95ea2ae
 MD5 (ArduCopter-1.3.1.px4) = 9cb58d4d1a580996329fc38afa6e5de8
 MD5 (ArduCopter-2.0.20.px4) = c377b4a8003cadbc8844f4cdfa1740f9
-
+```
 
